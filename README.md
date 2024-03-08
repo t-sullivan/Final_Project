@@ -24,5 +24,19 @@ Distribution:
 - Fairness verified through smart contract code.
 
 ## Technology Used
+### PartiCoin Contract:
+- Solidity Version: The contract is written in Solidity version 0.8.20.
+- OpenZeppelin Contracts v5.0.0:
+- ERC20: The base contract for implementing the ERC-20 standard.
+- ERC20Permit: Extension enabling permit function for gasless transactions.
+### EthDeposit Contract:
+- Solidity Version: The contract is written in Solidity version 0.8.20.
+- OpenZeppelin Contracts v5.0.0:
+- IERC20: Interface for ERC-20 tokens.
+- SafeERC20: A library for safely interacting with ERC-20 tokens.
+- SafeMath: A library for safe mathematical operations to prevent overflows and underflows.
+### PartiCoin Contract Integration:
+- The EthDeposit contract integrates with the PartiCoin contract to interact with the PartiCoin token.
+
 ## Results 
 ## Global Implications & Fintech Correlation
