@@ -33,8 +33,8 @@ Distribution:
 - Solidity Version: The contract is written in Solidity version 0.8.20.
 - OpenZeppelin Contracts v5.0.0:
 - IERC20: Interface for ERC-20 tokens.
-- SafeERC20: A library for safely interacting with ERC-20 tokens.
-- SafeMath: A library for safe mathematical operations to prevent overflows and underflows.
+- SafeERC20
+- SafeMath
 ### PartiCoin Contract Integration:
 - The EthDeposit contract integrates with the PartiCoin contract to interact with the PartiCoin token.
 
