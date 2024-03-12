@@ -38,5 +38,3 @@ Distribution:
 ### PartiCoin Contract Integration:
 - The EthDeposit contract integrates with the PartiCoin contract to interact with the PartiCoin token.
 
-## Results 
-## Global Implications & Fintech Correlation
